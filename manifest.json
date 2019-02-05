@@ -1,0 +1,9 @@
+{
+  "name": "Long Name",
+  "short_name": "Short Name",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "",
+  "theme_color": "purple",
+  "background_color": "teal"
+}
